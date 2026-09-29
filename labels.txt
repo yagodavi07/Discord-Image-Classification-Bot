@@ -1,0 +1,2 @@
+0 gato real
+1 gato gerado por IA
